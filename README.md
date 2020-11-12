@@ -14,7 +14,7 @@
 ![screen shot of xammp control panel](https://github.com/Ch-Lokesh/Hall_Management_System/blob/master/images/xampp-control-panel.png?raw=true)
 * Start Apache and MySql servers<br>
 
-![Screen shot showing servers started](https://github.com/Ch-Lokesh/Hall-Management-System/blob/master/images/xampp-cpanel-running.png?raw=true)
+![Screen shot showing servers started](https://github.com/Ch-Lokesh/Hall_Management_System/blob/master/images/xampp-cpanel-running.png?raw=true)
 
 
 
@@ -23,14 +23,14 @@
 
 * Create a new database by clicking on new, name the database as hms<br>
 
-* Now Click on import, then browse to C:\xampp\htdocs\Hall-Management-System-master\db\ and Select hms.sql<br>
+* Now Click on import, then browse to C:\xampp\htdocs\Hall_Management_System\db\ and Select hms.sql<br>
 
 * Then click go, it will take few minutes to import database.<br>
 
 * After importing the hms database looks like this<br>
 ![database screen shot](https://github.com/Ch-Lokesh/Hall-Management-System/blob/master/images/database.png?raw=true)
 
-* Now go to [localhost/Hall-Management-System-master](localhost/Hall-Management-System-master) url or go to localhost/folder_name, where 
+* Now go to [localhost/Hall_Management_System](localhost/Hall-Management-System-master) url or go to localhost/folder_name, where 
 folder_name is the name of folder where website pages were saved.
 
 * Then you will see this page<br>
