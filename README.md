@@ -14,7 +14,7 @@
 ![screen shot of xammp control panel](https://github.com/Ch-Lokesh/Hall_Management_System/blob/main/images/xampp-control-panel.png?raw=true)
 * Start Apache and MySql servers<br>
 
-![Screen shot showing servers started](https://github.com/Ch-Lokesh/Hall_Management_System/blob/master/images/xampp-cpanel-running.png?raw=true)
+![Screen shot showing servers started](https://github.com/Ch-Lokesh/Hall_Management_System/blob/main/images/xampp-cpanel-running.png?raw=true)
 
 
 
@@ -28,14 +28,14 @@
 * Then click go, it will take few minutes to import database.<br>
 
 * After importing the hms database looks like this<br>
-![database screen shot](https://github.com/Ch-Lokesh/Hall-Management-System/blob/master/images/database.png?raw=true)
+![database screen shot](https://github.com/Ch-Lokesh/Hall_Management_System/blob/main/images/database.png?raw=true)
 
-* Now go to [localhost/Hall_Management_System](localhost/Hall-Management-System-master) url or go to localhost/folder_name, where 
+* Now go to [localhost/Hall_Management_System](localhost/Hall_Management_System) url or go to localhost/folder_name, where 
 folder_name is the name of folder where website pages were saved.
 
 * Then you will see this page<br>
 * Set browser zoom in between (60% - 80%)<br>
-![index page](https://github.com/Ch-Lokesh/Hall-Management-System/blob/master/images/index.png?raw=true)
+![index page](https://github.com/Ch-Lokesh/Hall_Management_System/blob/main/images/index.png?raw=true)
 <br>
 * To register as Admin, use '123' (without quotes) as unique id (uid);<br>
 * login as gmail : lokeshchikkula2000@gmail.com,  pass : legend11 to note all features of (student acc).<br>  
