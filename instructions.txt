@@ -1,0 +1,72 @@
+Hall-Management-System
+Installation Steps For Windows users
+
+git hub repo : https://github.com/Ch-Lokesh/HallManagementSystem
+
+1)    Installing Xampp
+
+    Click on this https://www.apachefriends.org/download.html to download xampp
+    To insall xampp, run the downloaded .exe file
+    Xampp will be downloaded to C:\xampp , by default.
+    Clone or Download HallManagementSystemmaster zip file.
+    If you have the zip file, extract Hall-Management-System-master folder to C:\xampp\htdocs\
+    To run website, Hall-Management-System-master folder must be in htdocs.
+    Now run Xampp Control Panel
+
+
+
+2)    Start Apache and MySql servers
+
+
+Database
+
+    Click on the Mysql Admin button or directly go to 'localhost/phpmyadmin' url
+
+    Create a new database by clicking on new, name the database as hms
+
+    Now Click on import, then browse to C:\xampp\htdocs\Hall-Management-System-master\db\ and Select hms.sql
+
+    Then click go, it will take few minutes to import database.
+
+    Now go to localhost/Hall-Management-System-master url or go to localhost/folder_name, where folder_name is the name of folder where website pages were saved.
+
+    Then you will see index page
+
+    Set browser zoom in between (60% - 80%)
+    
+
+
+* To register as Admin, use '123' (without quotes) as unique id (uid);
+* login as gmail : lokeshchikkula2000@gmail.com, pass : legend11 to note all features of (student acc).
+* login as gmail : admin@gmail.com , pass : admin123 to note all features of (admin acc).
+
+
+For Linux users
+
+    On linux follow these instructions to install xampp
+    Xampp will be downloaded to /opt/lampp, by default.
+    Clone or download repo
+    If you have the zip file extract it.
+    Open terminal and go to downloads or the folder where you downloaded repo
+
+$ cd Download
+
+
+* Now move the repo to /opt/lampp/htdocs/
+
+$ sudo mv [folder_name] /opt/lampp/htdocs/
+
+
+* to start apache and sql servers, enter
+
+$ sudo /opt/lampp/lampp start
+
+
+    Enter below command to get writing permistions in htdocs
+
+$ sudo chmod -R 777 /opt/lampp/htdocs
+
+    Go to localhost/phpmyadmin url
+    Now follow the same instructions (mentioned for the windows part) to create the Database
+    Then open localhost/repo_folder_name example localhost/Hall-Management-System-master
+    Set browser zoom in between (60% - 80%)
