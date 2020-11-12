@@ -11,7 +11,7 @@
 * To run website, Hall-Management-System-master folder must be in htdocs.
 * Now run Xampp Control Panel
 
-![screen shot of xammp control panel](https://github.com/Ch-Lokesh/Hall_Management_System/blob/master/images/xampp-control-panel.png?raw=true)
+![screen shot of xammp control panel](https://github.com/Ch-Lokesh/Hall_Management_System/blob/main/images/xampp-control-panel.png?raw=true)
 * Start Apache and MySql servers<br>
 
 ![Screen shot showing servers started](https://github.com/Ch-Lokesh/Hall_Management_System/blob/master/images/xampp-cpanel-running.png?raw=true)
